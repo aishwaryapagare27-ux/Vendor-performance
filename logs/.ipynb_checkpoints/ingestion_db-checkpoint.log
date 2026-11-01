@@ -1,0 +1,5 @@
+2026-08-30 13:44:47,174 - INFO - Ingesting begin_inventory.csv in db
+2026-08-30 13:44:51,897 - INFO - Ingesting end_inventory.csv in db
+2026-08-30 13:45:07,509 - INFO - Ingesting purchases.csv in db
+2026-08-30 13:46:28,497 - INFO - Ingesting purchase_prices.csv in db
+2026-08-30 13:47:12,637 - INFO - Ingesting sales.csv in db
